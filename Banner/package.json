@@ -21,5 +21,7 @@
     
     },
   "license": "MIT",
-  "blockConfig": {}
+  "blockConfig": {
+    "specVersion": "0.1"
+  }
 }
