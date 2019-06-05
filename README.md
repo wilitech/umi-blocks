@@ -9,7 +9,13 @@
     * 模板类型选择 `block`
     * github 仓库地址填写 `wilitech/umi-blocks`
     * 选择不启用 TS
+    * 目前 umi 版本还需要手动在 package.json 添加[版本兼容配置项](https://github.com/umijs/umi/pull/2367)
+      ```
+      "blockConfig": {
+        "specVersion": "0.1"
+      }
+      ```
 
-    ![](./screenshots/1.jpg)
+![](./screenshots/1.jpg)
 
 
