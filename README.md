@@ -24,4 +24,4 @@ windows下，如果用umi创建antd-pro项目出现了问题，请确保在终�
 具体步骤：
 1. $ yarn global bin (得到路径值)
 2. 控制面板-系统和安全-系统-高级系统设置，选择环境变量
-3. 在用户变量和系统变量下找到Path，选择编辑，都添加上你在终端得到的路径值（如：C:\Program Files\nodejs\node\global\bin
+3. 在用户变量和系统变量下找到Path，选择编辑，都添加上你在终端得到的路径值（如：C:\Program Files\nodejs\node\global\bin）
